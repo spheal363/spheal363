@@ -36,7 +36,7 @@
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRoaGZlcGRoMDc5cHV2c3plaTNoaXdxeDRnaWttZWdkMG1qMmYyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PiQNvGsBwIRqwSoCm5/giphy.gif" width="28"> Activities
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=spheal363&theme=vue-dark&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spheal363&theme=vue-dark&layout=compact" />
