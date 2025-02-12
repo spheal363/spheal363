@@ -20,7 +20,7 @@
 
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 🌱 Skills
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdneDd1cGx4bmZuMWZwenFocDgydG12M2pueDI2NXI4MTBqaXlneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gFK6scW91lwIA6vRXD/giphy.gif" width="28"> Skills
 ### Programming Languages
 ![](https://skillicons.dev/icons?i=c,cs,cpp,java,py,html,css,js,dart,r)
 
