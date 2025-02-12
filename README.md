@@ -3,12 +3,11 @@
   <img src="https://komarev.com/ghpvc/?username=spheal363" />
 </div>
 
-<video src="https://github.com/user-attachments/assets/f7a51678-e4e2-4959-80e3-bd52749fdab2" loop></video>
-
-
 <div align="right">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG8zdzFnODB4N29scjdmdDIzZGJhbHVmd3lwaWJnMGI2NXNja3g1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FkZtJSPEYD565cvYOZ/giphy.gif" width="100">
 </div>
+
+![無題の動画 ‐ Clipchampで作成](https://github.com/user-attachments/assets/e71c3498-581c-4030-a63d-044d78757226)
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHM1cGlwajQ0ZXBsaW5jemI3dnYzdW9qcDQyNHQ3bzBuN2oxMmxzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qYfvGbHjTUMNUbHncn/giphy.gif" width="70">
 
