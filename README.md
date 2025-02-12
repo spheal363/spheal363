@@ -3,9 +3,12 @@
   <img src="https://komarev.com/ghpvc/?username=spheal363" />
 </div>
 
-<div style="text-align: right;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHM1cGlwajQ0ZXBsaW5jemI3dnYzdW9qcDQyNHQ3bzBuN2oxMmxzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qYfvGbHjTUMNUbHncn/giphy.gif" width="50">
+<div align="right">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG8zdzFnODB4N29scjdmdDIzZGJhbHVmd3lwaWJnMGI2NXNja3g1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FkZtJSPEYD565cvYOZ/giphy.gif" width="100">
 </div>
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHM1cGlwajQ0ZXBsaW5jemI3dnYzdW9qcDQyNHQ3bzBuN2oxMmxzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qYfvGbHjTUMNUbHncn/giphy.gif" width="70">
+
 
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
