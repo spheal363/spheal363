@@ -14,22 +14,19 @@
 
 
 <!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-## Skills
 ### Programming Languages
-![](https://skillicons.dev/icons?i=c,java,py,html,css,php)
+![](https://skillicons.dev/icons?i=c,cs,cpp,java,py,html,css,js,dart,r)
 
-### OS and Hardware
-![](https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi)
+### OS and Hardware 
+![](https://skillicons.dev/icons?i=windows,linux,ubuntu,raspberrypi)  
 
-### Flameworks and Library
-![](https://skillicons.dev/icons?i=wordpress)
+### Frameworks and Libraries
+![](https://skillicons.dev/icons?i=vue,wordpress,unity,flask,ros)  
 
-### Tools
-![](https://skillicons.dev/icons?i=git,github,vim,md,mysql)
-
+### Tools 
+![](https://skillicons.dev/icons?i=git,github,md,mysql,aws,gcp)  
 <br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
