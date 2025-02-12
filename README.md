@@ -3,6 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=spheal363" />
 </div>
 
+<video src="https://github.com/user-attachments/assets/f7a51678-e4e2-4959-80e3-bd52749fdab2" loop></video>
+
+
 <div align="right">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG8zdzFnODB4N29scjdmdDIzZGJhbHVmd3lwaWJnMGI2NXNja3g1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FkZtJSPEYD565cvYOZ/giphy.gif" width="100">
 </div>
