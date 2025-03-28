@@ -16,7 +16,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 - 🧑‍🎓 I'm a master's student.
 - 🌱 I’m currently learning Unity!
-- 📫 How to reach me: [My Blog (制作中)](http://sd-portfolio.site/home/)
+- 📫 How to reach me: [My Blog (制作中)](http://www.sd-portfolio.site/)
 <br>
 
 
