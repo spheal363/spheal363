@@ -36,18 +36,12 @@
 ![](https://skillicons.dev/icons?i=git,github,md,mysql,aws,gcp)  
 <br>
 
-<!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRreW11NHRvamJxN3p2Nms1dHhydXNkdDJqMGQ5eXF1dnJtcmU4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/spxcGIV0JltEgl4U8k/giphy.gif" width="35"> Activities
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=spheal363&theme=vue-dark&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spheal363&theme=vue-dark&layout=compact" />
 </div>
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spheal363&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=spheal363&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=spheal363&theme=onedark&column=9
 )](https://github.com/ryo-ma/github-profile-trophy)
